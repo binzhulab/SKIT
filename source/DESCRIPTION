@@ -1,0 +1,11 @@
+Package: SKIT
+Title: SKIT
+Version: 0.0.2
+Date: 2019-11-19
+Author: DongHyuk Lee and Bin Zhu
+Maintainer: Bill Wheeler <wheelerb@imsweb.com>
+Description: Conduct the Semiparametric Kernel Independence Test between two vectors when there are excess zeros.
+Imports: stats, utils
+License: GPL-2
+NeedsCompilation: yes
+Packaged: 2019-11-20 17:42:34 UTC; wheelerwi

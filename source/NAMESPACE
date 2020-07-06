@@ -1,0 +1,4 @@
+import(stats)
+import(utils)
+useDynLib(SKIT)
+export(skit)
